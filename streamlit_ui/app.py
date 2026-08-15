@@ -25,7 +25,7 @@ if uploaded_file:
     }
 
     response = requests.post(
-        "http://127.0.0.1:8000/predict",
+        "https://vehicle-damage-detection-78bv.onrender.com/predict",
         files=files
     )
 
