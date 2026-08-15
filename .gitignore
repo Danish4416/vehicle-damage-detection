@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+temp_file/
+temp_file.jpg
+
+# Dataset
+dataset/
+
+# Model file
+saved_model.pth
+
+# Environment
+.env
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
