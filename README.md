@@ -7,11 +7,6 @@ The application uses **ResNet50 with Transfer Learning** and classifies vehicles
 ### 🚀 Live Demo
 
 👉 **[Try the Vehicle Damage Detection App](https://vehicle-damage-detection-1-g3s2.onrender.com)**
-
-### 📸 Application
-
-![Vehicle Damage Detection App](app_screenshot.jpg)
-
 ---
 
 ## 🎯 Project Objective
